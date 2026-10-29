@@ -1,6 +1,6 @@
 {
   "name": "tls-record-layer-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Detects 0-RTT early data in TLS 1.2 and 1.3 traffic via record header parsing and construction.",
   "type": "module",
   "main": "src/index.js",
